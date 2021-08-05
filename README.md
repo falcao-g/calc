@@ -1,4 +1,5 @@
 # calc
-A calculator using the Tkinter python library
 
-I was bored and angry with the Windows calculator, so I did my own
+A calculator made with te Tkinter python library
+
+It's evry simple but gets the work done
