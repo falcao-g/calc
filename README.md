@@ -2,4 +2,4 @@
 
 A calculator made with te Tkinter python library
 
-It's evry simple but gets the work done
+It's very simple but gets the work done
